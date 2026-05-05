@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "john@example.com",
+    "days_since_contact": 12,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university. Love hiking together.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "James Kim",
+    "picture": "https://randomuser.me/api/portraits/men/2.jpg",
+    "email": "james.kim@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "My manager at my first job. He taught me a lot about product thinking.",
+    "goal": 7,
+    "next_due_date": "2025-06-01"
+  },
+  {
+    "id": 3,
+    "name": "Marcus Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "marcus.j@example.com",
+    "days_since_contact": 27,
+    "status": "overdue",
+    "tags": ["family", "brother"],
+    "bio": "My older brother. We grew up in Chicago together.",
+    "goal": 21,
+    "next_due_date": "2025-05-30"
+  },
+  {
+    "id": 4,
+    "name": "Arjun Patel",
+    "picture": "https://randomuser.me/api/portraits/men/4.jpg",
+    "email": "arjun.patel@example.com",
+    "days_since_contact": 6,
+    "status": "almost due",
+    "tags": ["college", "roommate"],
+    "bio": "We were roommates for two years. He's now a UX designer in London.",
+    "goal": 7,
+    "next_due_date": "2025-06-02"
+  },
+  {
+    "id": 5,
+    "name": "David Chen",
+    "picture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "email": "d.chen@example.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["work", "collaborator"],
+    "bio": "Worked on the same startup. Built our MVP together in 3 months.",
+    "goal": 30,
+    "next_due_date": "2025-08-10"
+  },
+  {
+    "id": 6,
+    "name": "Ethan Torres",
+    "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+    "email": "ethan.t@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["childhood", "close friend"],
+    "bio": "Best friends since 3rd grade. He lives in Austin now.",
+    "goal": 30,
+    "next_due_date": "2025-05-15"
+  },
+  {
+    "id": 7,
+    "name": "Liam O'Brien",
+    "picture": "https://randomuser.me/api/portraits/men/7.jpg",
+    "email": "liam.obrien@example.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["networking", "investor"],
+    "bio": "Met at a fintech conference in 2022. Sharp mind for early-stage startups.",
+    "goal": 14,
+    "next_due_date": "2025-06-03"
+  },
+  {
+    "id": 8,
+    "name": "Samuel Nkosi",
+    "picture": "https://randomuser.me/api/portraits/men/8.jpg",
+    "email": "samuel.nkosi@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["community", "volunteer"],
+    "bio": "We volunteer together at the local literacy program every month.",
+    "goal": 14,
+    "next_due_date": "2025-06-15"
+  },
+  {
+    "id": 9,
+    "name": "Ryan Nakamura",
+    "picture": "https://randomuser.me/api/portraits/men/9.jpg",
+    "email": "ryan.naka@example.com",
+    "days_since_contact": 19,
+    "status": "overdue",
+    "tags": ["gym", "accountability partner"],
+    "bio": "Training partner at the gym. We push each other on deadlift days.",
+    "goal": 14,
+    "next_due_date": "2025-05-25"
+  },
+  {
+    "id": 10,
+    "name": "Noah Bergström",
+    "picture": "https://randomuser.me/api/portraits/men/10.jpg",
+    "email": "noah.berg@example.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["travel", "friend"],
+    "bio": "Met backpacking through Southeast Asia. We still plan trips together.",
+    "goal": 10,
+    "next_due_date": "2025-06-04"
+  }
+]
