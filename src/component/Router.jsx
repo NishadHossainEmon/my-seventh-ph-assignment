@@ -4,6 +4,7 @@ import HomePage from "./HomePage";
 import FriendDetails from "../FriendDetails";
 import TimeLine from "../TimeLine";
 import Chart from "./Chart";
+import ErrorPage from "./ErrorPage";
 
 
 export const router = createBrowserRouter([
@@ -27,6 +28,7 @@ export const router = createBrowserRouter([
          path: '/chart',
          element: <Chart></Chart>
       }
-     ]
+     ],
+     errorElement: <ErrorPage></ErrorPage>
   }
 ])
