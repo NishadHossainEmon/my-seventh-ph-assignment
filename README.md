@@ -1,16 +1,34 @@
-# React + Vite
+# KeenKeeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
 
-## React Compiler
+| Technology | Purpose |
+|---|---|
+| **React 19** | UI Library |
+| **React Router** | Client-side Routing |
+| **Tailwind CSS** | Styling |
+| **DaisyUI** | UI Component Library |
+| **Recharts** | Data Visualization |
+| **React Toastify** | Toast Notifications |
+| **React Icons** | Icon Library |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. 👥 Friend Tracking
+View all your friends in a clean card-based layout. Each card shows the friend's profile picture, name, tags, and relationship status — whether they're **On Track**, **Almost Due**, or **Overdue**.
+
+### 2. 📋 Interactive Timeline
+Log and track every interaction with your friends — calls, texts, and video chats. Filter interactions by type and sort them by date to stay on top of your relationships.
+
+### 3. 📊 Friendship Analytics
+A visual pie chart breaks down your interactions by type (Call, Text, Video), giving you a quick overview of how you've been keeping in touch with the people in your life.
+
+---
+
+© 2025 KeenKeeper. All rights reserved.
