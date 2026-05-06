@@ -15,7 +15,7 @@ const AllFriends = () => {
 
   return (
     <div className="pb-10 sm:pb-14">
-      <h2 className="text-lg sm:text-xl font-bold mb-3">Your Friends</h2>
+      <h2 className="text-xl sm:text-2xl font-bold mb-3">Your Friends</h2>
 
       {loading ? (
         <div className="flex justify-center items-center">

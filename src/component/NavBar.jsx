@@ -9,7 +9,7 @@ const NavBar = () => {
 
       {/* Logo */}
       <div className="flex-1">
-        <a className="text-lg sm:text-xl font-bold">
+        <a className="text-xl sm:text-2xl font-bold">
           Keen<span className="text-[#244d3f] font-semibold">Keeper</span>
         </a>
       </div>
@@ -27,7 +27,7 @@ const NavBar = () => {
               <NavLink
                 to={"/"}
                 className={({ isActive }) =>
-                  `font-semibold ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
+                  `font-semibold text-base ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
                 }
               >
                 <div className="flex items-center gap-1.5">
@@ -40,7 +40,7 @@ const NavBar = () => {
               <NavLink
                 to={"/timeline"}
                 className={({ isActive }) =>
-                  `font-semibold ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
+                  `font-semibold text-base ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
                 }
               >
                 <div className="flex items-center gap-1.5">
@@ -53,7 +53,7 @@ const NavBar = () => {
               <NavLink
                 to={"/chart"}
                 className={({ isActive }) =>
-                  `font-semibold ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
+                  `font-semibold text-base ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
                 }
               >
                 <div className="flex items-center gap-1.5">
@@ -73,7 +73,7 @@ const NavBar = () => {
             <NavLink
               to={"/"}
               className={({ isActive }) =>
-                `font-semibold ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
+                `font-semibold text-base ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
               }
             >
               <div className="flex justify-center items-center gap-1.5">
@@ -86,7 +86,7 @@ const NavBar = () => {
             <NavLink
               to={"/timeline"}
               className={({ isActive }) =>
-                `font-semibold ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
+                `font-semibold text-base ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
               }
             >
               <div className="flex justify-center items-center gap-1.5">
@@ -99,7 +99,7 @@ const NavBar = () => {
             <NavLink
               to={"/chart"}
               className={({ isActive }) =>
-                `font-semibold ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
+                `font-semibold text-base ${isActive ? "text-gray-50 bg-[#244d3f]" : ""}`
               }
             >
               <div className="flex justify-center items-center gap-1.5">
