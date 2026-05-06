@@ -3,7 +3,7 @@ import { toast } from "react-toastify";
 
 export const FriendContext = createContext();
 const FriendContextProvider = ({ children }) => {
-  const [storedFriends, setStoredFriends] = useState([]);
+  let [storedFriends, setStoredFriends] = useState([]);
 
   console.log(storedFriends)
 
